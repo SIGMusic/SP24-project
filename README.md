@@ -64,11 +64,11 @@ To streamline dependency installation, it's recommended to set up a virtual envi
      make update
      ```
 
-## TODO (26 Mar - 2 Apr)
-### Frontend
-- [ ] Investigate PyGame for frontend development
+## TODO (9 Apr - 16 Apr)
+### Frontend (high priority!)
+- [ ] Investigate PyGame for frontend development.
+- [ ] Get a basic frontend with buttons going.
 
 ### Backend
-- [ ] Implement sound loading and saving functionality for **WAV**, MP3, AIFF formats.
-- [ ] Develop filters (lowpass and highpass) for audio processing.
 - [ ] Generate and save sinusoid waves programmatically.
+- [ ] Implement sound loading and saving functionality for **WAV**, MP3, AIFF formats.
