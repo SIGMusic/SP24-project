@@ -64,11 +64,15 @@ To streamline dependency installation, it's recommended to set up a virtual envi
      make update
      ```
 
-## TODO (9 Apr - 16 Apr)
-### Frontend (high priority!)
-- [ ] Investigate PyGame for frontend development.
-- [ ] Get a basic frontend with buttons going.
+## TODO (17 Apr - 23 Apr)
+### Frontend
+- [ ] Maybe see if PyAutoGUI can help? (Evan)
 
 ### Backend
-- [ ] Generate and save sinusoid waves programmatically.
-- [ ] Implement sound loading and saving functionality for **WAV**, MP3, AIFF formats.
+- [ ] Generate and save sinusoid waves programmatically (high priority!!!).
+- [ ] Implement sound import, export for **WAV**, MP3, AIFF formats.
+- [ ] Custom filters + extensions!
+
+### Other
+- [ ] Evan will discuss denoising (static, VAD) on April 23rd
+- [ ] MIDI later... 
